@@ -2,7 +2,7 @@ package ar.edu.unju.edm.model;
 
 import org.springframework.stereotype.Component;
 
-//la calculadora es un componente
+//la calculadora es un componente ati tota    ..
 @Component
 public class Calculadora {
 	//atribute
